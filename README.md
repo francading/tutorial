@@ -1,2 +1,2 @@
 # tutorial
-My first repository for testing - March 22, 2023
+my first repository - March 22, 2023
